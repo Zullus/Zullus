@@ -41,6 +41,10 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
+i{
+    font-size: 14px;
+    color: #c0c0c0;
+}
 // Import partials.
 @import
   "minima/base",
