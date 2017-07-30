@@ -44,4 +44,4 @@ Nesses sites, você poderá ver os detalhes dos projetos que criamos, que tem co
     - FTP Server
     - Tomcat
 
-Se quiser mais informações, aguado seu contato: [site.email](site.email)
+Se quiser mais informações, aguado seu contato: [{{ site.email }}]({{ site.email }})
