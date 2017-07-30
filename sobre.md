@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-permalink: /Sobre/
+permalink: /sobre/
 ---
 
 Desenvolvedor, comecei com a velha trica Basic, DBase e COBOL nos antigos anos 90.
@@ -31,6 +31,7 @@ Nesses sites, você poderá ver os detalhes dos projetos que criamos, que tem co
     - SQL Server
     - MongoDB
     - Regis
+    - Memcached
     - SQlite
   + Frameworks
     - JQuery
